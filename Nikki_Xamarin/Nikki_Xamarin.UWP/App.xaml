@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Nikki_Xamarin.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Nikki_Xamarin.UWP"
+    RequestedTheme="Light">
+
+</Application>
