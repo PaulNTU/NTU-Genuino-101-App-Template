@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Nikki_Xamarin", "Nikki_Xamarin\Nikki_Xamarin\Nikki_Xamarin.shproj", "{EEBF26CD-0F79-44DD-BD3D-80BBE4F0A110}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Genuino101_Xamarin", "Nikki_Xamarin\Nikki_Xamarin\Genuino101_Xamarin.shproj", "{EEBF26CD-0F79-44DD-BD3D-80BBE4F0A110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikki_Xamarin.Android", "Nikki_Xamarin\Nikki_Xamarin.Android\Nikki_Xamarin.Android.csproj", "{E47F510D-6F39-4F1A-9DAB-75BE1BE4130F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genuino101_Xamarin.Android", "Nikki_Xamarin\Nikki_Xamarin.Android\Genuino101_Xamarin.Android.csproj", "{E47F510D-6F39-4F1A-9DAB-75BE1BE4130F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikki_Xamarin.iOS", "Nikki_Xamarin\Nikki_Xamarin.iOS\Nikki_Xamarin.iOS.csproj", "{92E030FA-D575-45C6-A4F9-C59D4A3438FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genuino101_Xamarin.iOS", "Nikki_Xamarin\Nikki_Xamarin.iOS\Genuino101_Xamarin.iOS.csproj", "{92E030FA-D575-45C6-A4F9-C59D4A3438FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikki_Xamarin.UWP", "Nikki_Xamarin\Nikki_Xamarin.UWP\Nikki_Xamarin.UWP.csproj", "{EEBC2117-5B7D-42F1-B6FE-C5A151528C22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genuino101_Xamarin.UWP", "Nikki_Xamarin\Nikki_Xamarin.UWP\Genuino101_Xamarin.UWP.csproj", "{EEBC2117-5B7D-42F1-B6FE-C5A151528C22}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution

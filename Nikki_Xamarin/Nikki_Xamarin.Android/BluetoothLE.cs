@@ -9,13 +9,13 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using FRAME.CrossPlatformInterfaces.BLE;
+using NTU.CrossPlatformInterfaces.BLE;
 using Android.Bluetooth;
 using Android.Bluetooth.LE;
 using Java.Util;
 using System.Threading.Tasks;
 
-namespace Nikki_Xamarin.Droid
+namespace Genuino101_Xamarin.Droid
 {
     public class BluetoothLE : BluetoothGattCallback, IBluetoothLE
     {

@@ -1,7 +1,7 @@
 ﻿using Android.Bluetooth;
-using FRAME.CrossPlatformInterfaces.BLE;
+using NTU.CrossPlatformInterfaces.BLE;
 
-namespace Nikki_Xamarin.Droid
+namespace Genuino101_Xamarin.Droid
 {
     public class BluetoothCharacteristicAndroid: BluetoothCharacteristicBase, IBluetoothCharacteristic
     {

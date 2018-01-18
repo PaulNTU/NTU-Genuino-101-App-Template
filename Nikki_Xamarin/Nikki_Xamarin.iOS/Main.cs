@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace Nikki_Xamarin.iOS
+namespace Genuino101_Xamarin.iOS
 {
 	public class Application
 	{

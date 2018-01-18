@@ -13,7 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-namespace Nikki_Xamarin.UWP
+namespace Genuino101_Xamarin.UWP
 {
     public sealed partial class MainPage
     {
@@ -21,7 +21,7 @@ namespace Nikki_Xamarin.UWP
         {
             this.InitializeComponent();
 
-            LoadApplication(new Nikki_Xamarin.App());
+            LoadApplication(new Genuino101_Xamarin.App());
         }
     }
 }

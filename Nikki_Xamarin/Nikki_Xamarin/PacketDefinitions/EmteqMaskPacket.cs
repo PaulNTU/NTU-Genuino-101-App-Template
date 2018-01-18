@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FRAME.CrossPlatformInterfaces.BLE.PacketDefinitions
+namespace NTU.CrossPlatformInterfaces.BLE.PacketDefinitions
 {
     public class EmteqMaskPacket : IBluetoothPacket
     {

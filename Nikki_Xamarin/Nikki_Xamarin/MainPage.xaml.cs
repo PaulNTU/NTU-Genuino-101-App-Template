@@ -1,4 +1,4 @@
-﻿using FRAME.CrossPlatformInterfaces.BLE;
+﻿using NTU.CrossPlatformInterfaces.BLE;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace Nikki_Xamarin
+namespace Genuino101_Xamarin
 {
 	public partial class MainPage : ContentPage
 	{

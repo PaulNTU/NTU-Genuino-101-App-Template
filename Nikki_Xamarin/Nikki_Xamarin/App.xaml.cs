@@ -1,4 +1,4 @@
-﻿using FRAME.CrossPlatformInterfaces.BLE;
+﻿using NTU.CrossPlatformInterfaces.BLE;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 
 using Xamarin.Forms;
 
-namespace Nikki_Xamarin
+namespace Genuino101_Xamarin
 {
 	public partial class App : Application
 	{
@@ -14,7 +14,7 @@ namespace Nikki_Xamarin
 		{
 			InitializeComponent();
 
-			MainPage = new Nikki_Xamarin.MainPage(bluetooth);
+			MainPage = new Genuino101_Xamarin.MainPage(bluetooth);
 		}
 
 		protected override void OnStart ()

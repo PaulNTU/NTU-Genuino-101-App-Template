@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FRAME.CrossPlatformInterfaces.BLE
+namespace NTU.CrossPlatformInterfaces.BLE
 {
     public interface IBluetoothPacket
     {
