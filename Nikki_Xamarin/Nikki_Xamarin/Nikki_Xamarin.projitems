@@ -31,9 +31,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="$(MSBuildThisFileDirectory)ArduinoSketches\Genuino101_Sample.ino" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)ArduinoSketches\" />
+    <None Include="$(MSBuildThisFileDirectory)ArduinoSketches\Nikki_Test.ino" />
   </ItemGroup>
 </Project>
