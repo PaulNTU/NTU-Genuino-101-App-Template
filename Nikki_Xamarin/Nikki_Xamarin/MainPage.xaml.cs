@@ -26,7 +26,10 @@ namespace Genuino101_Xamarin
 
             _bluetooth.StartBLE("PepsiCo");
 
-		}
+            _currentstate = -1;
+
+
+        }
 
         private void Bluetooth_OnBLEConnectionStateChanged(IBluetoothLE device, BLEConnectionStatusEnum status)
         {
@@ -81,7 +84,7 @@ namespace Genuino101_Xamarin
                     {
                         // Keep track of the last received state so that we only refresh when needed
                         _currentstate = value;
-                        if (value == 0)
+                        if (value == 1)
                         {
                             ShowEmpty();
                         }
